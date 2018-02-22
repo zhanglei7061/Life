@@ -1,4 +1,4 @@
-转自 `徐强`老大的[Github](https://github.com/xuqiang76/text)，仅供自己学习
+转自 `徐强`老大的[Github](https://github.com/xuqiang76/text)，仅供自己学
 
 ---
 #### 服务器环境：CentOS 7.X 64位 ####
