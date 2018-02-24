@@ -49,7 +49,7 @@
 
 把原来传递参数做成数组形式，如下：
 
-    forgot($params=array(),$format = 'json');
+      forgot($params=array(),$format = 'json');
 
 聚合成一个数组。这样可以加任意多个参数。
 
