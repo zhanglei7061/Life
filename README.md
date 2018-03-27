@@ -3,6 +3,10 @@
 
 ---------
 2018-3-27<br>
+* 微信的二次分享的一些坑 [微信分享1](http://www.cnblogs.com/joshua317/p/4761948.html) [微信分享2](http://www.cnblogs.com/joshua317/articles/4761954.html) <br>
+
+---------
+2018-3-27<br>
 * 八大排序 算法[排序](https://juejin.im/post/5ab9ae9cf265da23830ae617) <br>
 
 ---------
