@@ -3,6 +3,10 @@
 
 ---------
 2018-3-27<br>
+* 微信的二次分享换链接操作 [微信分享更换链接，同一域名，跳板功能](https://blog.csdn.net/wang1988081309/article/details/71268691) <br>
+
+---------
+2018-3-27<br>
 * 微信的二次分享的一些坑 [微信分享1](http://www.cnblogs.com/joshua317/p/4761948.html) [微信分享2](http://www.cnblogs.com/joshua317/articles/4761954.html) <br>
 
 ---------
