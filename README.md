@@ -1,6 +1,9 @@
 #不要让你擅长的技术限制了你，得去看新的边界，多学习能使你融会贯通<br>
 #修炼神功，继续养成！！
 
+2018-4-4<br>
+* redis的使用场景 [Redis使用场景](https://www.cnblogs.com/NiceCui/p/7794659.html) <br>
+
 ---------
 2018-3-27<br>
 * 微信的二次分享换链接操作 [微信分享更换链接，同一域名，跳板功能](https://blog.csdn.net/wang1988081309/article/details/71268691) <br>
